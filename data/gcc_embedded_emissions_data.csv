@@ -1,0 +1,512 @@
+country,sector,cn_code,product_description,default_total_emissions,production_process_route,unit
+Bahrain,Aluminium,7601,Unwrought aluminium,1.87,(K),tCO2e/tonne
+Bahrain,Aluminium,7603,Aluminium powders and flakes,1.98,(K),tCO2e/tonne
+Bahrain,Aluminium,76041010,Bars and rods,2.2,(K),tCO2e/tonne
+Bahrain,Aluminium,76041090,Profiles,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76042100,Hollow profiles,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76042910,Bars and rods,2.2,(K),tCO2e/tonne
+Bahrain,Aluminium,76042990,Profiles,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,7605,Aluminium wire,2.2,(K),tCO2e/tonne
+Bahrain,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,7608,Aluminium tubes and pipes,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,761090,Other,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76109090,Other,2.22,(K),tCO2e/tonne
+Bahrain,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",2.2,(K),tCO2e/tonne
+Bahrain,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",2.66,(K),tCO2e/tonne
+Bahrain,Aluminium,76169910,Cast,1.98,(K),tCO2e/tonne
+Bahrain,Aluminium,76169990,Other,2.66,(K),tCO2e/tonne
+Bahrain,Hydrogen,28041000,Hydrogen,10.82,,tCO2e/tonne
+Kuwait,Cement,2523100090,Other clinker including grey clinker,0.87,(A),tCO2e/tonne
+Kuwait,Cement,25232900,Grey Portland cement,1.03,,tCO2e/tonne
+Kuwait,Cement,2523900090,Other hydraulic cements including grey hydraulic cements,0.99,(A),tCO2e/tonne
+Kuwait,Fertilisers,28080000,Nitric acid; sulphonitric acids,2.51,,tCO2e/tonne
+Kuwait,Fertilisers,28141000,Anhydrous ammonia,2.1,,tCO2e/tonne
+Kuwait,Fertilisers,28142000,Ammonia in aqueous solution,0.63,,tCO2e/tonne
+Kuwait,Fertilisers,28342100,Nitrate of potassium,2.07,,tCO2e/tonne
+Kuwait,Fertilisers,31021012,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing =>31,8% but <=33,2 % by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.49,,tCO2e/tonne
+Kuwait,Fertilisers,31021015,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing >33,2% but <=55% by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.78,,tCO2e/tonne
+Kuwait,Fertilisers,31021019,"Urea, whether or not in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg, or in aqueous solution containing =>31,8% but <=55% by weight of urea)",1.46,,tCO2e/tonne
+Kuwait,Fertilisers,31021090,"Urea, whether or not in aqueous solution, containing <= 45% by weight of nitrogen on the dry anhydrous product (excl. goods of this chapter in tablets or similar forms or in packages of a gross weight of <= 10 kg)",1.43,,tCO2e/tonne
+Kuwait,Fertilisers,31022100,"Ammonium sulphate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.67,,tCO2e/tonne
+Kuwait,Fertilisers,31022900,Double salts and mixtures of ammonium sulphate and ammonium nitrate,1.38,,tCO2e/tonne
+Kuwait,Fertilisers,31023010,Ammonium nitrate in aqueous solution (excl. that in packages with a gross weight of <= 10 kg),1.59,,tCO2e/tonne
+Kuwait,Fertilisers,31023090,"Ammonium nitrate (excl. that in aqueous solution, in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.44,,tCO2e/tonne
+Kuwait,Fertilisers,31024010,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing <= 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.1,,tCO2e/tonne
+Kuwait,Fertilisers,31024090,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing > 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.1,,tCO2e/tonne
+Kuwait,Fertilisers,31025000,"Sodium nitrate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",3.92,,tCO2e/tonne
+Kuwait,Fertilisers,31026000,"Double salts and mixtures of calcium nitrate and ammonium nitrate (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.05,,tCO2e/tonne
+Kuwait,Fertilisers,31028000,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution (excl. those in packages with a gross weight of <= 10 kg),1.56,,tCO2e/tonne
+Kuwait,Fertilisers,31029000,Mineral or chemical nitrogen fertilisers (excl. urea; ammonium sulphate; ammonium nitrate; sodium nitrate; double salts and mixtures of ammonium nitrate with ammonium sulphate or calcium; mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution; mixtures of ammonium nitrate and calcium carbonate or other non-fertilising inorganic elements; in tablets or similar in packages <= 10 kg),1.62,,tCO2e/tonne
+Kuwait,Fertilisers,31051000,"Mineral or chemical fertilisers of animal or vegetable origin, in tablets or similar forms, or in packages with a gross weight of <= 10 kg",0.83,,tCO2e/tonne
+Kuwait,Fertilisers,31052010,"Mineral or chemical fertilisers containing phosphorus and potassium, with a nitrogen content > 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.09,,tCO2e/tonne
+Kuwait,Fertilisers,31052090,"Mineral or chemical fertilisers containing nitrogen, phosphorus and potassium, with a nitrogen content <= 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.75,,tCO2e/tonne
+Kuwait,Fertilisers,31053000,"Diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.52,,tCO2e/tonne
+Kuwait,Fertilisers,31054000,"Ammonium dihydrogenorthophosphate ""monoammonium phosphate"", whether or not mixed with diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.35,,tCO2e/tonne
+Kuwait,Fertilisers,31055100,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (nitrates and phosphates),1.48,,tCO2e/tonne
+Kuwait,Fertilisers,31055900,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (excl. nitrates and phosphates),0.65,,tCO2e/tonne
+Kuwait,Fertilisers,31059020,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one principal fertilising substance only, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, containing > 10% nitrogen by weight (excl. in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.39,,tCO2e/tonne
+Kuwait,Fertilisers,31059080,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one main fertilising element, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, not containing nitrogen or with a nitrogen content, by weight, of <= 10% (excl. in tablets or similar forms or in packages of a gross weight of <= 10 kg)",0.73,,tCO2e/tonne
+Kuwait,Aluminium,7601,Unwrought aluminium,0.36,(L),tCO2e/tonne
+Kuwait,Aluminium,7603,Aluminium powders and flakes,0.63,(L),tCO2e/tonne
+Kuwait,Aluminium,76041010,Bars and rods,0.86,(L),tCO2e/tonne
+Kuwait,Aluminium,76041090,Profiles,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76042100,Hollow profiles,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76042910,Bars and rods,0.86,(L),tCO2e/tonne
+Kuwait,Aluminium,76042990,Profiles,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,7605,Aluminium wire,0.86,(L),tCO2e/tonne
+Kuwait,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,7608,Aluminium tubes and pipes,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,761090,Other,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76109090,Other,0.87,(L),tCO2e/tonne
+Kuwait,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",0.86,(L),tCO2e/tonne
+Kuwait,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",1.32,(L),tCO2e/tonne
+Kuwait,Aluminium,76169910,Cast,0.63,(L),tCO2e/tonne
+Kuwait,Aluminium,76169990,Other,1.32,(L),tCO2e/tonne
+Kuwait,Hydrogen,28041000,Hydrogen,13.45,,tCO2e/tonne
+Oman,Cement,2523100090,Other clinker including grey clinker,0.86,(A),tCO2e/tonne
+Oman,Cement,25232900,Grey Portland cement,0.92,,tCO2e/tonne
+Oman,Aluminium,7601,Unwrought aluminium,1.7,(K),tCO2e/tonne
+Oman,Aluminium,7603,Aluminium powders and flakes,1.81,(K),tCO2e/tonne
+Oman,Aluminium,76041010,Bars and rods,2.03,(K),tCO2e/tonne
+Oman,Aluminium,76041090,Profiles,2.05,(K),tCO2e/tonne
+Oman,Aluminium,76042100,Hollow profiles,2.05,(K),tCO2e/tonne
+Oman,Aluminium,76042910,Bars and rods,2.03,(K),tCO2e/tonne
+Oman,Aluminium,76042990,Profiles,2.05,(K),tCO2e/tonne
+Oman,Aluminium,7605,Aluminium wire,2.03,(K),tCO2e/tonne
+Oman,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Oman,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Oman,Aluminium,7608,Aluminium tubes and pipes,2.05,(K),tCO2e/tonne
+Oman,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",2.05,(K),tCO2e/tonne
+Oman,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",2.05,(K),tCO2e/tonne
+Oman,Aluminium,761090,Other,2.05,(K),tCO2e/tonne
+Oman,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",2.05,(K),tCO2e/tonne
+Oman,Aluminium,76109090,Other,2.05,(K),tCO2e/tonne
+Oman,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Oman,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Oman,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,2.49,(K),tCO2e/tonne
+Oman,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",2.03,(K),tCO2e/tonne
+Oman,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",2.49,(K),tCO2e/tonne
+Oman,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",2.49,(K),tCO2e/tonne
+Oman,Aluminium,76169910,Cast,1.81,(K),tCO2e/tonne
+Oman,Aluminium,76169990,Other,2.49,(K),tCO2e/tonne
+Oman,Hydrogen,28041000,Hydrogen,10.82,,tCO2e/tonne
+Oman,Iron & Steel,720211,"Ferro-manganese, containing by weight > 2% of carbon",1.69,,tCO2e/tonne
+Oman,Iron & Steel,720241,"Ferro-chromium, containing by weight > 4% of carbon",2.35,,tCO2e/tonne
+Oman,Iron & Steel,72026000,Ferro-nickel,3.48,,tCO2e/tonne
+Qatar,Cement,2523100090,Other clinker including grey clinker,0.86,(A),tCO2e/tonne
+Qatar,Cement,25232900,Grey Portland cement,0.91,,tCO2e/tonne
+Qatar,Cement,2523900090,Other hydraulic cements including grey hydraulic cements,0.88,(A),tCO2e/tonne
+Qatar,Fertilisers,28080000,Nitric acid; sulphonitric acids,2.52,,tCO2e/tonne
+Qatar,Fertilisers,28141000,Anhydrous ammonia,2.07,,tCO2e/tonne
+Qatar,Fertilisers,28142000,Ammonia in aqueous solution,0.62,,tCO2e/tonne
+Qatar,Fertilisers,28342100,Nitrate of potassium,2.05,,tCO2e/tonne
+Qatar,Fertilisers,31021012,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing =>31,8% but <=33,2 % by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.46,,tCO2e/tonne
+Qatar,Fertilisers,31021015,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing >33,2% but <=55% by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.74,,tCO2e/tonne
+Qatar,Fertilisers,31021019,"Urea, whether or not in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg, or in aqueous solution containing =>31,8% but <=55% by weight of urea)",1.37,,tCO2e/tonne
+Qatar,Fertilisers,31021090,"Urea, whether or not in aqueous solution, containing <= 45% by weight of nitrogen on the dry anhydrous product (excl. goods of this chapter in tablets or similar forms or in packages of a gross weight of <= 10 kg)",1.34,,tCO2e/tonne
+Qatar,Fertilisers,31022100,"Ammonium sulphate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.64,,tCO2e/tonne
+Qatar,Fertilisers,31022900,Double salts and mixtures of ammonium sulphate and ammonium nitrate,1.35,,tCO2e/tonne
+Qatar,Fertilisers,31023010,Ammonium nitrate in aqueous solution (excl. that in packages with a gross weight of <= 10 kg),1.57,,tCO2e/tonne
+Qatar,Fertilisers,31023090,"Ammonium nitrate (excl. that in aqueous solution, in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.42,,tCO2e/tonne
+Qatar,Fertilisers,31024010,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing <= 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.07,,tCO2e/tonne
+Qatar,Fertilisers,31024090,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing > 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.07,,tCO2e/tonne
+Qatar,Fertilisers,31025000,"Sodium nitrate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",3.93,,tCO2e/tonne
+Qatar,Fertilisers,31026000,"Double salts and mixtures of calcium nitrate and ammonium nitrate (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.03,,tCO2e/tonne
+Qatar,Fertilisers,31028000,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution (excl. those in packages with a gross weight of <= 10 kg),1.52,,tCO2e/tonne
+Qatar,Fertilisers,31029000,Mineral or chemical nitrogen fertilisers (excl. urea; ammonium sulphate; ammonium nitrate; sodium nitrate; double salts and mixtures of ammonium nitrate with ammonium sulphate or calcium; mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution; mixtures of ammonium nitrate and calcium carbonate or other non-fertilising inorganic elements; in tablets or similar in packages <= 10 kg),1.56,,tCO2e/tonne
+Qatar,Fertilisers,31051000,"Mineral or chemical fertilisers of animal or vegetable origin, in tablets or similar forms, or in packages with a gross weight of <= 10 kg",0.81,,tCO2e/tonne
+Qatar,Fertilisers,31052010,"Mineral or chemical fertilisers containing phosphorus and potassium, with a nitrogen content > 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.06,,tCO2e/tonne
+Qatar,Fertilisers,31052090,"Mineral or chemical fertilisers containing nitrogen, phosphorus and potassium, with a nitrogen content <= 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.72,,tCO2e/tonne
+Qatar,Fertilisers,31053000,"Diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.51,,tCO2e/tonne
+Qatar,Fertilisers,31054000,"Ammonium dihydrogenorthophosphate ""monoammonium phosphate"", whether or not mixed with diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.34,,tCO2e/tonne
+Qatar,Fertilisers,31055100,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (nitrates and phosphates),1.44,,tCO2e/tonne
+Qatar,Fertilisers,31055900,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (excl. nitrates and phosphates),0.62,,tCO2e/tonne
+Qatar,Fertilisers,31059020,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one principal fertilising substance only, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, containing > 10% nitrogen by weight (excl. in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.38,,tCO2e/tonne
+Qatar,Fertilisers,31059080,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one main fertilising element, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, not containing nitrogen or with a nitrogen content, by weight, of <= 10% (excl. in tablets or similar forms or in packages of a gross weight of <= 10 kg)",0.72,,tCO2e/tonne
+Qatar,Aluminium,7601,Unwrought aluminium,1.7,(K),tCO2e/tonne
+Qatar,Aluminium,7603,Aluminium powders and flakes,1.81,(K),tCO2e/tonne
+Qatar,Aluminium,76041010,Bars and rods,2.03,(K),tCO2e/tonne
+Qatar,Aluminium,76041090,Profiles,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76042100,Hollow profiles,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76042910,Bars and rods,2.03,(K),tCO2e/tonne
+Qatar,Aluminium,76042990,Profiles,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,7605,Aluminium wire,2.03,(K),tCO2e/tonne
+Qatar,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,7608,Aluminium tubes and pipes,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",2.05,(K),tCO2e/tonne
+Qatar,Aluminium,761090,Other,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76109090,Other,2.05,(K),tCO2e/tonne
+Qatar,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,2.49,(K),tCO2e/tonne
+Qatar,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",2.03,(K),tCO2e/tonne
+Qatar,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",2.49,(K),tCO2e/tonne
+Qatar,Aluminium,76169910,Cast,1.81,(K),tCO2e/tonne
+Qatar,Aluminium,76169990,Other,2.49,(K),tCO2e/tonne
+Qatar,Hydrogen,28041000,Hydrogen,10.82,,tCO2e/tonne
+Saudi Arabia,Fertilisers,28080000,Nitric acid; sulphonitric acids,2.5,,tCO2e/tonne
+Saudi Arabia,Fertilisers,28141000,Anhydrous ammonia,2.1,,tCO2e/tonne
+Saudi Arabia,Fertilisers,28142000,Ammonia in aqueous solution,0.63,,tCO2e/tonne
+Saudi Arabia,Fertilisers,28342100,Nitrate of potassium,2.06,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31021012,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing =>31,8% but <=33,2 % by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.49,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31021015,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing >33,2% but <=55% by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.78,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31021019,"Urea, whether or not in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg, or in aqueous solution containing =>31,8% but <=55% by weight of urea)",1.47,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31021090,"Urea, whether or not in aqueous solution, containing <= 45% by weight of nitrogen on the dry anhydrous product (excl. goods of this chapter in tablets or similar forms or in packages of a gross weight of <= 10 kg)",1.44,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31022100,"Ammonium sulphate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.67,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31022900,Double salts and mixtures of ammonium sulphate and ammonium nitrate,1.38,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31023010,Ammonium nitrate in aqueous solution (excl. that in packages with a gross weight of <= 10 kg),1.58,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31023090,"Ammonium nitrate (excl. that in aqueous solution, in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.43,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31024010,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing <= 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.1,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31024090,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing > 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.1,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31025000,"Sodium nitrate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",3.9,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31026000,"Double salts and mixtures of calcium nitrate and ammonium nitrate (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.04,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31028000,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution (excl. those in packages with a gross weight of <= 10 kg),1.55,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31029000,Mineral or chemical nitrogen fertilisers (excl. urea; ammonium sulphate; ammonium nitrate; sodium nitrate; double salts and mixtures of ammonium nitrate with ammonium sulphate or calcium; mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution; mixtures of ammonium nitrate and calcium carbonate or other non-fertilising inorganic elements; in tablets or similar in packages <= 10 kg),1.62,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31051000,"Mineral or chemical fertilisers of animal or vegetable origin, in tablets or similar forms, or in packages with a gross weight of <= 10 kg",0.83,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31052010,"Mineral or chemical fertilisers containing phosphorus and potassium, with a nitrogen content > 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.09,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31052090,"Mineral or chemical fertilisers containing nitrogen, phosphorus and potassium, with a nitrogen content <= 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.75,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31053000,"Diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.53,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31054000,"Ammonium dihydrogenorthophosphate ""monoammonium phosphate"", whether or not mixed with diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.35,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31055100,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (nitrates and phosphates),1.48,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31055900,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (excl. nitrates and phosphates),0.65,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31059020,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one principal fertilising substance only, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, containing > 10% nitrogen by weight (excl. in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.39,,tCO2e/tonne
+Saudi Arabia,Fertilisers,31059080,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one main fertilising element, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, not containing nitrogen or with a nitrogen content, by weight, of <= 10% (excl. in tablets or similar forms or in packages of a gross weight of <= 10 kg)",0.73,,tCO2e/tonne
+Saudi Arabia,Aluminium,7601,Unwrought aluminium,1.7,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7603,Aluminium powders and flakes,1.81,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76041010,Bars and rods,2.04,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76041090,Profiles,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76042100,Hollow profiles,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76042910,Bars and rods,2.04,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76042990,Profiles,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7605,Aluminium wire,2.04,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7608,Aluminium tubes and pipes,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,761090,Other,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76109090,Other,2.05,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",2.04,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",2.49,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76169910,Cast,1.81,(K),tCO2e/tonne
+Saudi Arabia,Aluminium,76169990,Other,2.49,(K),tCO2e/tonne
+Saudi Arabia,Hydrogen,28041000,Hydrogen,13.45,,tCO2e/tonne
+United Arab Emirates,Cement,2523100010,White clinker,1.34,(B),tCO2e/tonne
+United Arab Emirates,Cement,2523100090,Other clinker including grey clinker,0.86,(A),tCO2e/tonne
+United Arab Emirates,Cement,25232100,White Portland cement,1.44,,tCO2e/tonne
+United Arab Emirates,Cement,25232900,Grey Portland cement,0.9,,tCO2e/tonne
+United Arab Emirates,Cement,2523900010,White hydraulic cement,1.51,(B),tCO2e/tonne
+United Arab Emirates,Cement,2523900090,Other hydraulic cements including grey hydraulic cements,0.87,(A),tCO2e/tonne
+United Arab Emirates,Aluminium,7601,Unwrought aluminium,1.87,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7603,Aluminium powders and flakes,1.98,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76041010,Bars and rods,2.2,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76041090,Profiles,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76042100,Hollow profiles,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76042910,Bars and rods,2.2,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76042990,Profiles,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7605,Aluminium wire,2.2,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7608,Aluminium tubes and pipes,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,761090,Other,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76109090,Other,2.22,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",2.2,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",2.66,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76169910,Cast,1.98,(K),tCO2e/tonne
+United Arab Emirates,Aluminium,76169990,Other,2.66,(K),tCO2e/tonne
+United Arab Emirates,Hydrogen,28041000,Hydrogen,10.82,,tCO2e/tonne
+United Arab Emirates,Iron & Steel,720211,"Ferro-manganese, containing by weight > 2% of carbon",1.69,,tCO2e/tonne
+United Arab Emirates,Iron & Steel,720241,"Ferro-chromium, containing by weight > 4% of carbon",2.35,,tCO2e/tonne
+United Arab Emirates,Iron & Steel,72026000,Ferro-nickel,3.48,,tCO2e/tonne
+Other Countries and Territories,Cement,2507008080,Calcined clay,0.28,,tCO2e/tonne
+Other Countries and Territories,Cement,2523100010,White clinker,1.37,(B),tCO2e/tonne
+Other Countries and Territories,Cement,2523100090,Other clinker including grey clinker,1.41,(A),tCO2e/tonne
+Other Countries and Territories,Cement,25232100,White Portland cement,1.45,,tCO2e/tonne
+Other Countries and Territories,Cement,25232900,Grey Portland cement,1.44,,tCO2e/tonne
+Other Countries and Territories,Cement,25233000,Aluminous cement,2.03,,tCO2e/tonne
+Other Countries and Territories,Cement,2523900010,White hydraulic cement,1.49,(B),tCO2e/tonne
+Other Countries and Territories,Cement,2523900090,Other hydraulic cements including grey hydraulic cements,1.37,(A),tCO2e/tonne
+Other Countries and Territories,Fertilisers,28080000,Nitric acid; sulphonitric acids,2.81,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,28141000,Anhydrous ammonia,3.13,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,28142000,Ammonia in aqueous solution,0.96,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,28342100,Nitrate of potassium,2.33,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31021012,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing =>31,8% but <=33,2 % by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",0.9,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31021015,"Urea in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product and containing >33,2% but <=55% by weight of urea (excl. that in packages with a gross weight of <= 10 kg)",1.47,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31021019,"Urea, whether or not in aqueous solution, containing >45% nitrogen in relation to the weight of the dry product (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg, or in aqueous solution containing =>31,8% but <=55% by weight of urea)",2.72,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31021090,"Urea, whether or not in aqueous solution, containing <= 45% by weight of nitrogen on the dry anhydrous product (excl. goods of this chapter in tablets or similar forms or in packages of a gross weight of <= 10 kg)",2.66,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31022100,"Ammonium sulphate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.97,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31022900,Double salts and mixtures of ammonium sulphate and ammonium nitrate,1.62,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31023010,Ammonium nitrate in aqueous solution (excl. that in packages with a gross weight of <= 10 kg),1.79,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31023090,"Ammonium nitrate (excl. that in aqueous solution, in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.75,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31024010,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing <= 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.36,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31024090,"Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, for use as fertilisers, containing > 28% nitrogen by weight (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.36,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31025000,"Sodium nitrate (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",4.39,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31026000,"Double salts and mixtures of calcium nitrate and ammonium nitrate (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",2.31,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31028000,Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution (excl. those in packages with a gross weight of <= 10 kg),1.96,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31029000,Mineral or chemical nitrogen fertilisers (excl. urea; ammonium sulphate; ammonium nitrate; sodium nitrate; double salts and mixtures of ammonium nitrate with ammonium sulphate or calcium; mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution; mixtures of ammonium nitrate and calcium carbonate or other non-fertilising inorganic elements; in tablets or similar in packages <= 10 kg),2.28,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31051000,"Mineral or chemical fertilisers of animal or vegetable origin, in tablets or similar forms, or in packages with a gross weight of <= 10 kg",1.0,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31052010,"Mineral or chemical fertilisers containing phosphorus and potassium, with a nitrogen content > 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.23,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31052090,"Mineral or chemical fertilisers containing nitrogen, phosphorus and potassium, with a nitrogen content <= 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.84,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31053000,"Diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.78,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31054000,"Ammonium dihydrogenorthophosphate ""monoammonium phosphate"", whether or not mixed with diammonium hydrogenorthophosphate ""diammonium phosphate"" (excl. that in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",0.51,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31055100,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (nitrates and phosphates),1.66,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31055900,Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus (excl. nitrates and phosphates),0.93,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31059020,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one principal fertilising substance only, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, containing > 10% nitrogen by weight (excl. in tablets or similar forms, or in packages with a gross weight of <= 10 kg)",1.57,,tCO2e/tonne
+Other Countries and Territories,Fertilisers,31059080,"Mineral or chemical fertilisers containing the two fertilising elements nitrogen and potassium, or one main fertilising element, incl. mixtures of animal or vegetable fertilisers with chemical or mineral fertilisers, not containing nitrogen or with a nitrogen content, by weight, of <= 10% (excl. in tablets or similar forms or in packages of a gross weight of <= 10 kg)",0.82,,tCO2e/tonne
+Other Countries and Territories,Aluminium,7601,Unwrought aluminium,2.203,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7603,Aluminium powders and flakes,2.945,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76041010,Bars and rods,3.233,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76041090,Profiles,3.251,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76042100,Hollow profiles,3.251,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76042910,Bars and rods,3.233,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76042990,Profiles,3.251,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7605,Aluminium wire,3.184,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",3.717,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",3.893,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7608,Aluminium tubes and pipes,3.22,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76090000,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",3.322,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76101000,"Doors, windows and their frames and thresholds for doors",3.212,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,761090,Other,3.212,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76109010,"Bridges and bridge-sections, towers and lattice masts",3.212,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76109090,Other,3.212,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76110000,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",4.037,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",3.944,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76130000,Aluminium containers for compressed or liquefied gas,4.037,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",3.297,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76161000,"Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",3.891,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76169100,"Cloth, grill, netting and fencing, of aluminium wire",3.891,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76169910,Cast,2.953,(K),tCO2e/tonne
+Other Countries and Territories,Aluminium,76169990,Other,3.891,(K),tCO2e/tonne
+Other Countries and Territories,Hydrogen,28041000,Hydrogen,17.74,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,26011200,Agglomerated iron ores and concentrates (excl. roasted iron pyrites),0.686,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",3.48,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,720211,"Ferro-manganese, containing by weight > 2% of carbon",1.69,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,720219,"Ferro-manganese, containing by weight <= 2% carbon",5.59,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,720241,"Ferro-chromium, containing by weight > 4% of carbon",2.35,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,720249,"Ferro-chromium, containing by weight <= 4% of carbon",2.87,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72026000,Ferro-nickel,4.014,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7203,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94%, in lumps, pellets or similar forms",1.325,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. granules and powders of ferro-alloys, turnings and filings of iron or steel, radioactive iron powders ""isotopes"" and certain low-calibre, substandard balls for ballbearings)",3.715,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72061000,"Ingots, of iron and non-alloy steel (excl. remelted scrap ingots, continuous cast products, iron of heading 7203)",3.75,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72069000,"Iron and non-alloy steel, in puddled bars or other primary forms (excl. ingots, remelted scrap ingots, continuous cast products, iron of heading 7203)",3.75,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071111,"Semi-finished products, of non-alloy free-cutting steel, containing by weight < 0,25% carbon, of square or rectangular cross-section, the width < twice the thickness, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071114,"Semi-finished products, of iron or non-alloy steel, containing by weight < 0,25% carbon, of square or rectangular cross-section, the width < twice the thickness of <= 130 mm, rolled or obtained by continuous casting (excl. free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071116,"Semi-finished products, of iron or non-alloy steel, containing by weight < 0,25% carbon, of square or rectangular cross-section, the width < twice the thickness of > 130 mm, rolled or obtained by continuous casting (excl. free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071190,"Semi-finished products of iron or non-alloy steel, containing by weight < 0,25% carbon, of rectangular cross-section, the width < twice the thickness, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071210,"Semi-finished products of iron or non-alloy steel, containing by weight < 0,25 of carbon, of rectangular ""other than square"" cross-section, the width measuring >= twice the thickness, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071290,"Semi-finished products of iron or non-alloy steel, containing by weight < 0,25% carbon, of rectangular ""other than square"" cross-section, the width >= twice the thickness, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071912,"Semi-finished products, of iron or non-alloy steel, containing by weight < 0,25% carbon, of circular or polygonal cross-section, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071919,"Semi-finished products of iron or non-alloy steel, containing by weight < 0,25% carbon, of circular or polygonal cross-section, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72071980,"Semi-finished products of iron or non-alloy steel, containing by weight < 0,25% carbon (excl. semi-products, of square, rectangular, circular or polygonal cross-section)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072011,"Semi-finished products, of non-alloy free-cutting steel, containing by weight >= 0,25% carbon, of square or rectangular cross-section, the width < twice the thickness, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072015,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% but < 0,6% carbon, of square or rectangular cross-section, the width < twice the thickness, rolled or obtained by continuous casting (excl. free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072017,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of square or rectangular cross-section, the width < twice the thickness, rolled or obtained by continuous casting (excl. free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072019,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, of square or rectangular cross-section, the width < twice the thickness, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072032,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25 of carbon, of rectangular ""other than square"" cross-section, the width measuring >= twice the thickness, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072039,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, of rectangular ""other than square"" cross-section and the width >= twice the thickness, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072052,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, of circular or polygonal cross-section, rolled or obtained by continuous casting",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072059,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of circular or polygonal cross-section, forged",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72072080,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon (excl. those of square, rectangular, circular or polygonal cross-section)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled, not clad, plated or coated",4.049,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, cold-rolled ""cold-reduced"", not clad, plated or coated",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled or cold-rolled ""cold-reduced"", clad, plated or coated",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72111300,"Flat-rolled products of iron or non-alloy steel, simply hot-rolled on four faces or in a closed box pass, not clad, plated or coated, of a width of > 150 mm but < 600 mm and a thickness of >= 4 mm, not in coils, without patterns in relief, commonly known as ""wide flats""",4.049,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72111400,"Flat-rolled products of iron or non-alloy steel, of a width < 600 mm, not further worked than hot-rolled, not clad, plated or coated, of a thickness of >= 4,75 mm (excl. ""wide flats"")",4.049,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72111900,"Flat-rolled products of iron or non-alloy steel, of a width < 600 mm, simply hot-rolled, not clad, plated or coated, of a thickness < 4,75 mm (excl. ""wide flats"")",4.049,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721123,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, simply cold-rolled ""cold-reduced"", not clad, plated or coated, containing by weight < 0,25% of carbon",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72112900,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, simply cold-rolled ""cold-reduced"", not clad, plated or coated, containing by weight >= 0,25% of carbon",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721190,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked, but not clad, plated or coated",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 mm, hot-rolled or cold-rolled ""cold-reduced"", clad, plated or coated",4.101,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly wound coils",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72141000,"Bars and rods, of iron or non-alloy steel, not further worked than forged (excl. in irregularly wound coils)",4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72142000,"Bars and rods, of iron or non-alloy steel, with indentations, ribs, groves or other deformations produced during the rolling process",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72143000,"Bars and rods, of non-alloy free-cutting steel, not further worked than hot-rolled, hot-drawn or hot-extruded (excl. containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721491,"Bars and rods, of iron or non-alloy steel, not further worked than hot-rolled, hot-drawn or hot-extruded, of rectangular ""other than square"" cross-section (excl. containing indentations, ribs, grooves or other deformations produced during the rolling process, bars and rods twisted after rolling and free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721499,"Bars and rods, of iron or non-alloy steel, only hot-rolled, only hot-drawn or only hot-extruded (excl. of rectangular [other than square] cross-section and those containing indentations, ribs, grooves or other deformations produced during the rolling process, and of non-alloy free-cutting steel)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finished, whether or not further worked, or hot-formed and further worked, n.e.s.",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721710,"Wire of iron or non-alloy steel, in coils, not plated or coated, whether or not polished (excl. bars and rods)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721720,"Wire of iron or non-alloy steel, in coils, plated or coated with zinc (excl. bars and rods)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721730,"Wire of iron or non-alloy steel, in coils, plated or coated with base metals (excl. plated or coated with zinc, and bars and rods)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721790,"Wire of iron or non-alloy steel, in coils, plated or coated (excl. plated or coated with base metals, and bars and rods)",3.996,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72181000,"Steel, stainless, in ingots and other primary forms (excl. waste and scrap in ingot form, and products obtained by continuous casting)",5.006,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721891,"Semi-finished products of stainless steel, of rectangular ""other than square"" cross-section",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72189911,"Semi-finished products of stainless steel, of square cross-section, rolled or obtained by continuous casting",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72189919,"Semi-finished products of stainless steel, of square cross-section, forged",5.006,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72189920,"Semi-finished products of stainless steel, of circular cross-section or of cross-section other than square or rectangular, rolled or obtained by continuous casting",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72189980,"Semi-finished products of stainless steel, forged (excl. products of square or rectangular cross-section)",5.006,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72191100,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, in coils, of a thickness of > 10 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721912,"Flat-rolled products of stainless steel, of a width of>= 600 mm, not further worked than hot-rolled, in coils, of a thickness of >= 4,7 mm and <= 10 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721913,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, in coils, of a thickness of >= 3 mm and < 4,75 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721914,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, in coils, of a thickness of < 3 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721921,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, not in coils, of a thickness of > 10 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721922,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, not in coils, of a thickness of >= 4,75 mm and <= 10 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72192300,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, not in coils, of a thickness of >= 3 mm and < 4,75 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72192400,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than hot-rolled, not in coils, of a thickness of < 3 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72193100,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"", of a thickness of >= 4,75 mm",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721932,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"", of a thickness of >= 3 mm but < 4,75 mm",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721933,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"", of a thickness of > 1 mm but < 3 mm",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721934,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"", of a thickness of >= 0,5 mm but <= 1 mm",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721935,"Flat-rolled products of stainless steel, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"", of a thickness of < 0,5 mm",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,721990,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72201100,"Flat-rolled products of stainless steel, of a width of < 600 mm, not further worked than hot-rolled, of a thickness of >= 4,75 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72201200,"Flat-rolled products of stainless steel, of a width of < 600 mm, not further worked than hot-rolled, of a thickness of < 4,75 mm",4.94,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722020,"Flat-rolled products of stainless steel, of a width of < 600 mm, not further worked than cold-rolled ""cold-reduced""",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722090,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked",5.02,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coils",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722211,"Bars and rods of stainless steel, only hot-rolled, only hot-drawn or only hot-extruded, of circular cross-section",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722219,"Bars and rods of stainless steel, only hot-rolled, only hot-drawn or only extruded (excl. of circular cross-section)",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722220,"Other bars and rods of stainless steel, not further worked than cold-formed or cold-finished",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722230,"Other bars and rods of stainless steel, cold-formed or cold-finished and further worked, or not further worked than forged, or forged, or hot-formed by other means and further worked, n.e.s.",5.006,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722240,"Angles, shapes and sections of stainless steel, n.e.s.",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722300,"Wire of stainless steel, in coils (excl. bars and rods)",4.82,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722410,"Steel, alloy, other than stainless, in ingots or other primary forms (excl. waste and scrap in ingot form, and products obtained by continuous casting)",5.589,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249002,Semi-finished products of tool steel,5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249003,"Semi-finished products of high-speed steel, of square or rectangular cross-section, hot-rolled or obtained by continuous casting the width measuring < twice the thickness",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249005,"Semi-finished products of steel containing by weight <= 0,7% of carbon, 0,5% to 1,2% of manganese, 0,6% to 2,3% of silicon, or of steel containing by weight >= 0,0008% of boron with any other element < the minimum content referred to in Note 1 f to chapter 72, of square or rectangular cross-section, hot rolled or obtained by continuous casting, the width measuring < twice the thickness",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249007,"Semi-finished products of alloy steel other than stainless steel, of square or rectangular cross-section, hot-rolled or obtained by continuous casting, the width measuring < twice the thickness (excl. of tool steel, high-speed steel and articles of subheading 7224.90.05)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249014,"Semi-finished products of alloy steel other than stainless steel, of square or rectangular cross-section, hot-rolled or obtained by continuous casting, the width measuring >= twice the thickness (excl. of tool steel)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249018,"Semi-finished products of alloy steel other than stainless steel, of square or rectangular cross-section, forged (excl. of tool steel)",5.589,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249031,"Semi-finished products of steel containing by weight 0,9% to 1,15% carbon, 0,5% to 2% of chromium and, if present, <= 0,5% of molybdenum, cut into shapes other than square or rectangular, hot-rolled or obtained by continuous casting",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249038,"Semi-finished products of alloy steel, other than stainless steel, cut into shapes other than square or rectangular, hot-rolled or obtained by continuous casting (excl. of tool steel and products containing by weight 0,9% to 1,15% of carbon, 0,5% to 2% of chromium and, if present, <= 0,5% of molybdenum)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72249090,"Semi-finished products of alloy steel, other than stainless steel, forged (excl. of tool steel and products of square or rectangular, circular or polygamol cross-section)",5.589,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72251100,"Flat-rolled products of silicon-electrical steel, of a width of >= 600 mm, grain-oriented",7.1,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72251910,"Flat-rolled products of silicon-electrical steel, of a width of >= 600 mm, hot-rolled",5.5,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72251990,"Flat-rolled products of silicon-electrical steel, of a width of >= 600 mm, cold-rolled ""cold-reduced"", non-grain-oriented",5.588,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722530,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, not further worked than hot-rolled, in coils (excl. products of silicon-electrical steel)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722540,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, not further worked than hot-rolled, not in coils (excl. products of silicon-electrical steel)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722550,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, not further worked than cold-rolled ""cold-reduced"" (excl. products of silicon-electrical steel)",5.588,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72259100,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and electrolytically plated or coated with zinc (excl. products of silicon-electrical steel)",5.588,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72259200,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and plated or coated with zinc (excl. electrolytically plated or coated and products of silicon-electrical steel)",5.588,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72259900,"Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked (excl. plated or coated with zinc and products of silicon-electrical steel)",5.588,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72261100,"Flat-rolled products of silicon-electrical steel, of a width of < 600 mm, hot-rolled or cold-rolled ""cold-reduced"", grain-oriented",7.1,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72261910,"Flat-rolled products of silicon-electrical steel, of a width of < 600 mm, not further worked than hot-rolled",5.5,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72261980,"Flat-rolled products of silicon-electrical steel, of a width of < 600 mm, cold-rolled ""cold-reduced"", whether or not further worked, or hot-rolled and further worked, non-grain-oriented",5.588,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72262000,"Flat-rolled products of high-speed steel, of a width of <= 600 mm, hot-rolled or cold-rolled ""cold-reduced""",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722691,"Flat-rolled products of alloy steel other than stainless, of a width of < 600 mm, not further worked than hot-rolled (excl. products of high-speed steel or silicon-electrical steel)",5.5,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72269200,"Flat-rolled products of alloy steel other than stainless, of a width of < 600 mm, not further worked than cold-rolled ""cold-reduced"" (excl. products of high-speed steel or silicon-electrical steel)",5.59,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722699,"Flat-rolled products of alloy steel other than stainless, of a width of < 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked (excl. products of high-speed steel or silicon-electrical steel)",5.588,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irregularly wound coils",5.4,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72281020,"Bars and rods of high-speed steel, not further worked than hot-rolled, hot-drawn or extruded, and hot-rolled, hot-drawn or extruded, not further worked than clad (excl. semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72281050,"Bars and rods of high-speed steel, forged (excl. semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.589,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72281090,"Bars and rods of high-speed steel, not further worked than cold-formed or cold-finished, whether or not further worked, or hot-formed and further worked (excl. forged products, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722820,"Bars and rods of silico-manganese steel (excl. semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722830,"Bars and rods of alloy steel other than stainless, not further worked than hot-rolled, hot-drawn or extruded (excl. products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722840,"Bars and rods of alloy steel other than stainless, not further worked than forged (excl. products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.589,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722850,"Bars and rods of alloy steel other than stainless, not further worked than cold-formed or cold-finished (excl. products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722860,"Bars and rods of alloy steel other than stainless, cold-formed or cold-finished and further worked or hot-formed and further worked, n.e.s. (excl. products of high-speed steel or silico-manganese steel, semi-finished products, flat-rolled products and hot-rolled bars and rods in irregularly wound coils)",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,722870,"Angles, shapes and sections of alloy steel other than stainless, n.e.s.",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,72288000,"Hollow drill bars and rods, of alloy or non-alloy steel",5.4,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rods)",5.4,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel",4.063,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7302,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ""cross-ties"", fish-plates, chairs, chair wedges, sole plates ""base plates"", rail clips, bedplates, ties and other material specialised for jointing or fixing rails",4.887,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730300,"Tubes, pipes and hollow profiles, of cast iron",4.15,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73041100,"Line pipe of a kind used for oil or gas pipelines, seamless, of stainless steel",5.184,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730419,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel (excl. products of stainless steel or of cast iron)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73042200,"Drill pipe, seamless, of stainless steel, of a kind used in drilling for oil or gas",5.184,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73042300,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. products of stainless steel or of cast iron)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73042400,"Casing and tubing, seamless, of a kind used for drilling for oil or gas, of stainless steel",5.184,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730429,"Casing and tubing, seamless, of iron or steel, of a kind used in drilling for oil or gas (excl. products of cast iron)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730431,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-alloy steel, cold-drawn or cold-rolled ""cold-reduced"" (excl. cast iron products and line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used for drilling for oil or gas)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730439,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-alloy steel, not cold-drawn or cold-rolled ""cold-reduced"" (excl. cast iron products, line pipe of a kind used for oil or gas pipelines, casing and tubing of a kind used for drilling for oil or gas)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73044100,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel, cold-drawn or cold-rolled ""cold-reduced"" (excl. line pipe of a kind used for oil or gas pipelines, casing and tubing of a kind used for drilling for oil or gas)",5.184,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730449,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel, not cold-drawn or cold-rolled ""cold-reduced"" (excl. line pipe of a kind used for oil or gas pipelines or of a kind used for drilling for oil or gas)",5.184,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730451,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel other than stainless, cold-drawn or cold-rolled ""cold-reduced"" (excl. line pipe of a kind used for oil or gas pipelines, casing and tubing of a kind used for drilling for oil)",3.878,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730459,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel other than stainless, not cold-drawn or cold-rolled ""cold-reduced"" (excl. line pipe of a kind used for oil or gas pipelines, casing and tubing of a kind used for drilling for oil)",3.878,(C)/(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73049000,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or steel (excl. products of cast iron)",3.981,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7305,"Tubes and pipes, having circular cross-sections and an external diameter of > 406,4 mm, of flat-rolled products of iron or steel ""e.g., welded, riveted or similarly closed""",4.06,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73061100,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of stainless steel, of an external diameter of <= 406,4 mm",5.369,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73061900,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of iron or steel, of an external diameter of <= 406,4 mm (excl. products of stainless steel or of cast iron)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73062100,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled products of stainless steel, of an external diameter of <= 406,4 mm",5.369,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73062900,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled products of iron or steel, of an external diameter of <= 406,4 mm (excl. products of stainless steel or of cast iron)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063012,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, cold-drawn or cold-rolled ""cold-reduced""",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063018,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel (excl. cold-drawn or cold-rolled)",4.09,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063041,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non-alloy steel, plated or coated with zinc",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063049,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non-alloy steel (excl. products plated or coated with zinc)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063072,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-alloy steel, of an external diameter of <= 168,3 mm, plated or coated with zinc (excl. line pipe of a kind used for oil or gas pipelines or casing and tubingof a kind used in drilling for oil or gas)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063077,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-alloy steel of an external diameter of <= 168,3 mm (excl. plated or coated with zinc and line pipe of a kind used for oil or gas pipelines, casing and tubing of a kind used in drilling for oil or gas, precision tubes and threaded or threadable tubes ""gas pipe"")",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73063080,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or steel, of an external diameter of > 168,3 mm but <= 406,4 mm (excl. line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas, or precision steel tubes, electrical conduit tubes or threaded or threadable tubes ""gas pipe"")",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73064020,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel, cold-drawn or cold-rolled ""cold-reduced"" (excl. products having internal and external circular cross-sections and an external diameter of > 406,4 mm, and line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas)",5.369,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73064080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel (excl. products cold-drawn or cold-rolled ""cold-reduced"", tubes and pipes having internal and external circular cross-sections and an external diameter of > 406,4 mm, and line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas)",5.296,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73065021,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainless, cold-drawn or cold-rolled ""cold-reduced""",4.128,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73065029,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainless (excl. cold-drawn or cold-rolled)",4.056,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73065080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of alloy steel other than stainless (excl. tubes and pipes having internal and external circular cross-sections and an external diameter of > 406,4 mm, and line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas, and precision steel tubes)",4.128,(F),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73066110,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of stainless steel",5.369,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73066192,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of iron or steel other than stainless steel, with a wall thickness of <= 2 mm",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73066199,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of iron or steel other than stainless steel, with a wall thickness of > 2 mm",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73066910,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless steel (excl. tubes and pipes having internal and external circular cross-sections and an external diameter of > 406,4 mm, line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas, and tubes and pipes and hollow profiles of square or rectangular cross-section)",5.369,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73066990,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel other than stainless steel (excl. tubes and pipes having internal and external circular cross-sections and an external diameter of > 406,4 mm, line pipe of a kind used for oil or gas pipelines or casing and tubing of a kind used in drilling for oil or gas, and tubes and pipes and hollow profiles of square or rectangular cross-section)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73069000,"Tubes, pipes and hollow profiles ""e.g., open seam, riveted or similarly closed"", of iron or steel (excl. of cast iron, seamless or welded tubes and pipes and tubes and pipes having internal and external circular cross-sections and an external diameter of > 406,4 mm)",4.141,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730711,Tube or pipe fittings of non-malleable cast iron,3.929,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73071910,Tube or pipe fittings of cast iron (excl. of non-malleable),3.929,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73071990,Cast tube or pipe fittings of steel,4.053,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73072100,Flanges of stainless steel (excl. cast products),4.498,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730722,"Threaded elbows, bends and sleeves of stainless steel (excl. cast products)",4.498,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730723,Butt welding tube or pipe fittings of stainless steel (excl. cast products),4.498,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730729,"Tube or pipe fittings of stainless steel (excl. cast products, flanges, threaded elbows, bends and sleeves and butt weldings fittings)",4.498,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73079100,Flanges of iron or steel (excl. cast or stainless products),4.072,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730792,"Threaded elbows, bends and sleeves, of stainless steel (excl. cast or stainless products)",4.072,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730793,"Butt welding fittings of iron or steel (excl. cast iron or stainless steel products, and flanges)",4.072,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,730799,"Tube or pipe fittings, of iron or steel (excl. cast iron or stainless steel products; flanges; threaded elbows, bends and sleeves; butt welding fittings)",4.072,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7308,"Structures and parts of structures ""e.g., bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns"", of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel (excl. prefabricated buildings of heading 9406)",5.064,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7309,"Reservoirs, tanks, vats and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of > 300 l, not fitted with mechanical or thermal equipment, whether or not lined or heat-insulated (excl. containers specifically constructed or equipped for one or more types of transport)",5.468,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,7310,"Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, for any material ""other than compressed or liquefied gas"", of a capacity of <= 300 l, not fitted with mechanical or thermal equipment, whether or not lined or heat-insulated, n.e.s.",4.228,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,731100,"Containers of iron or steel, for compressed or liquefied gas (excl. containers specifically constructed or equipped for one or more types of transport)",5.385,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181100,Coach screws of iron or steel,3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181210,Wood screws of stainless steel (excl. coach screws),5.119,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181290,Wood screws of iron or steel other than stainless (excl. coach screws),3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181300,"Screw hooks and screw rings, of iron or steel",3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181410,"Self-tapping screws, of stainless steel (excl. wood screws)",5.119,,tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181491,Spaced-thread screws of iron or steel other than stainless,3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181499,Self-tapping screws of iron or steel other than stainless (excl. spaced-thread screws and wood screws),3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,731815,"Threaded screws and bolts, of iron or steel, whether or not with their nuts and washers (excl. coach screws and other wood screws, screw hooks and screw rings, self-tapping screws, lag screws, stoppers, plugs and the like, threaded)",4.801,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,731816,Nuts of iron or steel,4.693,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73181900,"Threaded articles, of iron or steel, n.e.s.",3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73182100,"Spring washers and other lock washers, of iron or steel",3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73182200,Washers of iron or steel (excl. spring washers and other lock washers),4.322,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73182300,Rivets of iron or steel (excl. tubular and bifurcated rivets for particular uses),3.963,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73182400,"Cotters and cotter pins, of iron or steel",3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73182900,"Non-threaded articles, of iron or steel",3.962,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73261100,"Grinding balls and similar articles for mills, of iron or steel, forged or stamped, but not further worked",4.08,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,732619,"Articles of iron or steel, forged or stamped, but not further worked, n.e.s. (excl. grinding balls and similar articles for mills)",4.08,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73262000,"Articles of iron or steel wire, n.e.s.",4.051,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269030,"Ladders and steps, of iron or steel",4.051,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269040,"Pallets and similar platforms for handling goods, of iron or steel",4.051,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269050,"Reels for cables, piping and the like, of iron or steel",4.051,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269060,"Ventilators, non-mechanical, guttering, hooks and like articles used in the building industry, n.e.s., of iron or steel",4.051,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269092,"Articles of iron or steel, open-die forged, n.e.s.",4.08,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269094,"Articles of iron or steel, closed-die forged, n.e.s.",4.08,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269096,"Sintered articles of iron or steel, n.e.s.",4.08,(C),tCO2e/tonne
+Other Countries and Territories,Iron & Steel,73269098,"Articles of iron or steel, n.e.s.",4.151,(C),tCO2e/tonne
