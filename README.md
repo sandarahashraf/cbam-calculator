@@ -52,6 +52,8 @@ venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Screenshot
+![CBAM Calculator screenshot](screenshots/cbam_calculator.png)
 
 ## Limitations
 
